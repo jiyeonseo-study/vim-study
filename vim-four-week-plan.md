@@ -1,7 +1,7 @@
 # Vim 정복하기: 4주 계획 How To Learn Vim: A Four Week Plan
 
-reference : [Blog](https://medium.com/actualize-network/how-to-learn-vim-a-four-week-plan-cd8b376a9b85) 
-참고 : [블로그 글](https://medium.com/@jungseobshin/vim-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%B2%95-4%EC%A3%BC-%EA%B3%84%ED%9A%8D-77f3f7e263f7)
+참고 : [English Blog](https://medium.com/actualize-network/how-to-learn-vim-a-four-week-plan-cd8b376a9b85),  
+ [한국어 블로그 글](https://medium.com/@jungseobshin/vim-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%B2%95-4%EC%A3%BC-%EA%B3%84%ED%9A%8D-77f3f7e263f7)
 
 ## Week 1: 
 vimtutor 하루에 한 번, 매일 끝까지 실습하기 
