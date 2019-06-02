@@ -27,6 +27,10 @@ https://catonmat.net/why-vim-uses-hjkl-as-arrow-keys
 ### avoid esc key 
 https://vim.fandom.com/wiki/Avoid_the_escape_key 
 
+### basic cheat sheet
+![](vi-vim-tutorial-1.gif)
+reference : [http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
+
 - [ ] Week 1, Day 2
 - [ ] Week 1, Day 3
 - [ ] Week 1, Day 4
