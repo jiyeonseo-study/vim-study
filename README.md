@@ -23,11 +23,13 @@ Resources for vim study
 ## Undo
 
 `u` : undo for one change
-`U` : undo for whole changes in the line 
+
+`U` : (Capital U) undo for whole changes in the line 
+
 `ctrl + r` : undo the undo. 다시 실행
 
 ## Put
-`p` : `dd`로 지운 줄을 커서가 있는 줄에 붙혀 넣음 
+`p` : `dd`로 지운 줄을 커서가 **아래** 줄에 붙혀 넣음 
 
 ## Replace
 `r` : 커서 있는 글자를 바꿀 수 있음
