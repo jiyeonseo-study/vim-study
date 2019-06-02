@@ -14,9 +14,9 @@ $ vimtutor ko
 
 - [x] Week 1, Day 1
 ### w b e
-w : 전 단어의 맨 앞으로 커서 이동
-b : 뒤 단어의 맨 앞으로 커서 이동 
-e : 해당 단어, 다음 단어 마지막 글자로 커서 이동 
+- w : 전 단어의 맨 앞으로 커서 이동
+- b : 뒤 단어의 맨 앞으로 커서 이동 
+- e : 해당 단어, 다음 단어 마지막 글자로 커서 이동 
 
 ### Why vim uses hjkl as arraw keys + esc 
 https://catonmat.net/why-vim-uses-hjkl-as-arrow-keys
@@ -32,6 +32,29 @@ https://vim.fandom.com/wiki/Avoid_the_escape_key
 reference : [http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
 
 - [ ] Week 1, Day 2
+
+## 0 (Zero)
+Type  0  (zero) to move to the start of the line.
+
+### G gg
+- Press  G  to move you to the bottom of the file.
+- Type  gg  to move you to the start of the file.
+
+### go back after searching(`/` or `?`)
+- To go back to where you came from press  CTRL-O 
+- Repeat to go back further.
+- CTRL-I goes forward.
+
+### substitute
+
+`:%s/old/new/gc` : 바뀌는 모든 문자열 찾은 다음에 바꿀껀지 물어봄. 
+To ask for confirmation each time add 'c'
+
+### Visual 
+
+- `v` and move consor 문장 선택하기
+- Press the  :  character.  At the bottom of the screen  :'<,'> will appear.
+
 - [ ] Week 1, Day 3
 - [ ] Week 1, Day 4
 - [ ] Week 1, Day 5
