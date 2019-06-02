@@ -12,7 +12,21 @@ $ vimtutor
 $ vimtutor ko
 ```
 
-- [ ] Week 1, Day 1
+- [x] Week 1, Day 1
+### w b e
+w : 전 단어의 맨 앞으로 커서 이동
+b : 뒤 단어의 맨 앞으로 커서 이동 
+e : 해당 단어, 다음 단어 마지막 글자로 커서 이동 
+
+### Why vim uses hjkl as arraw keys + esc 
+https://catonmat.net/why-vim-uses-hjkl-as-arrow-keys
+
+### simple tips 
+- vim 에디터로 시작하지 마시고, 익숙한 IDE의 vim 플러그인으로 시작하세요. 
+
+### avoid esc key 
+https://vim.fandom.com/wiki/Avoid_the_escape_key 
+
 - [ ] Week 1, Day 2
 - [ ] Week 1, Day 3
 - [ ] Week 1, Day 4
