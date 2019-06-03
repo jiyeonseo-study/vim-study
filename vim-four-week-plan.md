@@ -31,7 +31,7 @@ https://vim.fandom.com/wiki/Avoid_the_escape_key
 ![](vi-vim-tutorial-1.gif)
 reference : [http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
 
-- [ ] Week 1, Day 2
+- [x] Week 1, Day 2
 
 ## 0 (Zero)
 Type  0  (zero) to move to the start of the line.
@@ -54,6 +54,9 @@ To ask for confirmation each time add 'c'
 
 - `v` and move consor 문장 선택하기
 - Press the  :  character.  At the bottom of the screen  :'<,'> will appear.
+
+- `y` : yank (copy) 
+- `p` : paste 
 
 - [ ] Week 1, Day 3
 - [ ] Week 1, Day 4
