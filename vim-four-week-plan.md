@@ -58,7 +58,11 @@ To ask for confirmation each time add 'c'
 - `y` : yank (copy) 
 - `p` : paste 
 
-- [ ] Week 1, Day 3
+- [x] Week 1, Day 3
+
+## Chrome extension 
+- Vimium https://vimium.github.io/
+
 - [ ] Week 1, Day 4
 - [ ] Week 1, Day 5
 - [ ] Week 1, Day 6
