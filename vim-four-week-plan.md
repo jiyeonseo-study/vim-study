@@ -65,6 +65,9 @@ To ask for confirmation each time add 'c'
 
 - [x] Week 1, Day 4
 
+## Vim adventure 
+- https://vim-adventures.com/
+
 - [ ] Week 1, Day 5
 - [ ] Week 1, Day 6
 - [ ] Week 1, Day 7
