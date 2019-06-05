@@ -63,7 +63,8 @@ To ask for confirmation each time add 'c'
 ## Chrome extension 
 - Vimium https://vimium.github.io/
 
-- [ ] Week 1, Day 4
+- [x] Week 1, Day 4
+
 - [ ] Week 1, Day 5
 - [ ] Week 1, Day 6
 - [ ] Week 1, Day 7
