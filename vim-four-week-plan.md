@@ -69,8 +69,15 @@ To ask for confirmation each time add 'c'
 - https://vim-adventures.com/
 
 - [ ] Week 1, Day 5
-- [ ] Week 1, Day 6
-- [ ] Week 1, Day 7
+- [x] Week 1, Day 6
+
+## PR for updaring vimtutor ko
+- https://github.com/vim/vim/pull/4503
+
+- [x] Week 1, Day 7
+
+## blog 
+- https://jiyeonseo.github.io/2019/06/07/vim-study-week1/
 
 ## Week 2: 
 최소한의 설정, 플러그인 없이 Vim 사용하기
