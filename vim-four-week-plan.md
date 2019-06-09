@@ -83,7 +83,51 @@ To ask for confirmation each time add 'c'
 최소한의 설정, 플러그인 없이 Vim 사용하기
 Use Vim with minimal config, no plugins
 
-- [ ] Week 2, Day 1
+- [x] Week 2, Day 1
+
+ref : https://dougblack.io/words/a-good-vimrc.html#spaces 
+
+## .vimrc
+> Don't put any lines in your vimrc that you don't understand.
+
+## rimrc_example.vim
+https://github.com/vim/vim/blob/314dd79cac2adc10304212d1980d23ecf6782cfc/runtime/vimrc_example.vim
+
+## Colors 
+```
+syntax enable
+```
+## Spaces & Tabs 
+```
+set tabstop=4
+```
+the number of spaces a tab counts for. So, when Vim opens a file and reads a <TAB> character, it uses that many spaces to visually show the <TAB>.
+
+```
+set softtabstop=4
+```
+the number of spaces a tab counts for when editing. So this value is the number of spaces that is inserted when you hit <TAB> and also the number of spaces that are removed when you backspace.
+
+## UI Config 
+```
+set number " show line numbers 
+set showcmd " commend in bottom bar
+set cursorline " highlight current line
+set showmatch " highlight matching [{()}]
+```
+```
+set lazyredraw
+```
+- for macro? 
+
+## Searching
+```
+set incsearch   " search as characters are entered
+set hlsearch
+```
+
+
+
 - [ ] Week 2, Day 2
 - [ ] Week 2, Day 3
 - [ ] Week 2, Day 4
